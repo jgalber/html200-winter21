@@ -46,7 +46,7 @@ let z = 10;
 do {
   console.log(z);
   z--;
-} while (z);
+  } while (z);
 
   // Console
     // 10

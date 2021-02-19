@@ -1,9 +1,6 @@
 function square() {
     let input = prompt('Enter a number');
-    // let numberToSquare = Number(input);
-    let result = 0;
-
-    result = Number(input) * Number(input);
-
+    let result = Number(input) **2;
+    // let result = Number(input) * Number(input);
     alert(result);
 }
